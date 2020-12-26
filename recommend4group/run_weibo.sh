@@ -1,0 +1,9 @@
+python train2.py --model gmf --alpha 0.3 --alias supervision_weibo_tweet_0.3 --max_epoch 60
+python train2.py --model gmf --alpha 0.9 --alias supervision_weibo_tweet_0.9 --max_epoch 60
+python train2.py --model gmf --alpha 0.5 --alias supervision_weibo_tweet_0.5 --max_epoch 60
+python train2.py --model gmf --alpha 0.2 --alias supervision_weibo_tweet_0.2 --max_epoch 60
+python train2.py --model gmf --alpha 0.6 --alias supervision_weibo_tweet_0.6 --max_epoch 60
+python train2.py --model gmf --alpha 0.7 --alias supervision_weibo_tweet_0.7 --max_epoch 60
+python train2.py --model gmf --alpha 0.8 --alias supervision_weibo_tweet_0.8 --max_epoch 60
+python train2.py --model gmf --alpha 0.4 --alias supervision_weibo_tweet_0.4 --max_epoch 60
+python train2.py --model gmf --alpha 0.1 --alias supervision_weibo_tweet_0.1 --max_epoch 60
